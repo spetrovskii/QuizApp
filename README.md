@@ -11,6 +11,6 @@ Creating, positioning, and styling views.
 Creating interactivity through button clicks and code.
 Commenting and documenting the code.
 
-## Screenshots
+## Screenshot
 
 ![1](https://user-images.githubusercontent.com/26073533/111796323-5c66a680-88c8-11eb-917b-df5474c3aca4.jpg)
