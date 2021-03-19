@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="yes">YES!</string>
+    <string name="no">NO!</string>
+    <string name="selectAnswer">Please select the correct answers.</string>
+    <string name="question1">1. Is Mount Everest the highest peak?</string>
+    <string name="question2">2. Which one of the following were USA Presidents?</string>
+    <string name="question3">3. What is the name of the planet closest to the sun?</string>
+    <string name="question4">4. Which planet did Superman come from?</string>
+    <string name="nixon">Richard Nixon</string>
+    <string name="obama">Barack Obama</string>
+    <string name="calvin">Calvin Cooledge</string>
+    <string name="daniels">Jack Daniels</string>
+    <string name="enterAnswer">Please enter your answer</string>
+    <string name="new_krypton">New Krypton</string>
+    <string name="warworld">Warworld</string>
+    <string name="krypton">Krypton</string>
+    <string name="argo_city">Argo City</string>
+    <string name="result">Results</string>
+</resources>
